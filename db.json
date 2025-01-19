@@ -1,0 +1,56 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "name": "ESPAÑOL",
+      "colorFondo": "#6BD1FF",
+      "colorborde": "#6BD1FF"
+    },
+    {
+      "id": "2",
+      "name": "INGLES",
+      "colorFondo": "#00C86F",
+      "colorborde": "#00C86F"
+    },
+    {
+      "id": "3",
+      "name": "OTROS IDIOMAS",
+      "colorFondo": "#FFBA05",
+      "colorborde": "#FFBA05"
+    }
+  ],
+  "cards": [
+    {
+      "titulo": "A bar song",
+      "categoria": "INGLES",
+      "imagen": "https://i.ytimg.com/vi/t7bQwwqW-Hc/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=t7bQwwqW-Hc",
+      "descripcion": "",
+      "id": "0fc11987-650e-4289-85f9-2613b42d5b04"
+    },
+    {
+      "id": "101d14cc-16b2-4c87-9111-4ceb6c133eef",
+      "titulo": "La camisa Negra",
+      "categoria": "ESPAÑOL",
+      "imagen": "https://i.ytimg.com/vi/7fwUH0oRmkQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=kRt2sRyup6A&list=RDEM9rVESUz9bQ91FCawkf7Ptg",
+      "descripcion": ""
+    },
+    {
+      "id": "fee56c6a-74a7-4217-9c51-34776ee1cfb4",
+      "titulo": "Querer mejor",
+      "categoria": "ESPAÑOL",
+      "imagen": "https://imagenes.eltiempo.com/files/image_1200_535/uploads/2019/05/24/5ce802004e8e6.jpeg",
+      "video": "https://www.youtube.com/watch?v=mQ4o4Wcda_s&list=RDEM9rVESUz9bQ91FCawkf7Ptg&index=2",
+      "descripcion": ""
+    },
+    {
+      "id": "a45e1a73-1bd6-4fa5-91e7-c316600f74ec",
+      "titulo": "Night Dancer",
+      "categoria": "OTROS IDIOMAS",
+      "imagen": "https://i.ytimg.com/vi/kagoEGKHZvU/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=kagoEGKHZvU&list=RDkagoEGKHZvU&start_radio=1",
+      "descripcion": ""
+    }
+  ]
+}

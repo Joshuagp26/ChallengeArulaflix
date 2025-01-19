@@ -1,0 +1,42 @@
+.cabecera {
+    background-color: #262626;
+    padding: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 4px solid #2271D1;
+    box-shadow: 0px 5px 29px 0px rgba(34, 113, 209, 0.7);
+    flex-wrap: wrap;
+}
+
+.botones {
+    display: flex;
+    justify-content: space-around;
+    gap: 32px;
+}
+.agrearIcono{
+    width: 46px;
+    height: 46px;
+    align-self:center;
+    display: none;
+}
+.agrearIconoH{
+    align-self:center;
+    display: none;
+}
+@media (max-width:650px) {
+    .agrearIcono{
+        width: 46px;
+        height: 46px;
+        align-self:center;
+        display:inline;
+    }
+    .agrearIconoH{
+        align-self:center;
+        display: inline;
+    }
+  
+}
+
+
+
